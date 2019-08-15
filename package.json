@@ -40,7 +40,7 @@
     "bili"
   ],
   "dependencies": {
-    "plyr": "^3.5.4"
+    "plyr": "^3.5.6"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
